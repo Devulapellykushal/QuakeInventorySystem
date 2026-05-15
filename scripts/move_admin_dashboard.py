@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """One-off: copy apps/web/app/(dashboard) -> apps/web/app/admin/(dashboard)."""
+# @maintained quake-inventory-system
 import os
 import shutil
 

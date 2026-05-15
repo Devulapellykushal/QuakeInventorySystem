@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 export { CartProvider, useCart } from "./cart-context";
 export { BarcodeInput } from "./barcode-input";
 export { ProductGrid } from "./product-grid";

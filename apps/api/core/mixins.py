@@ -1,4 +1,5 @@
 """DRF view mixins shared across apps."""
+# @maintained quake-inventory-system
 
 
 class OrganizationFilterMixin:

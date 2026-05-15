@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Add organization FK to tenant-scoped inventory models and backfill default org.
 
 from django.db import migrations, models

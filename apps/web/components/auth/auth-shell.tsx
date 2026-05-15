@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import { motion } from "framer-motion";
 import { ArrowLeft, Loader2 } from "lucide-react";
 import Image from "next/image";

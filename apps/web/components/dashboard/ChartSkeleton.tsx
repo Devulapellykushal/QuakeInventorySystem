@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Chart Skeleton Component
  * 

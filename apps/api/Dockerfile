@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # ========================================
 # TRAP Inventory API - Production Dockerfile
 # Optimized for Google Cloud Run

@@ -7,6 +7,7 @@ HARDENING RULES:
 - Inactive items shown with clear visual indicators
 - Phase 10A: Deleted products visible with is_deleted filter
 """
+# @maintained quake-inventory-system
 
 from django.contrib import admin
 from django.utils.html import format_html

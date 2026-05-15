@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 import { StudioLandingShell } from "@/components/studio/studio-landing-shell";
 import type { Metadata } from "next";
 

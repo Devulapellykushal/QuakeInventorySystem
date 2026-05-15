@@ -1,6 +1,7 @@
 """
 Analytics Services Package.
 """
+# @maintained quake-inventory-system
 
 from .inventory import get_inventory_overview, get_low_stock_items, get_dead_stock_items
 from .sales import get_sales_summary, get_sales_trends, get_top_selling_products

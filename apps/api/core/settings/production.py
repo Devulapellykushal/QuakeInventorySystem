@@ -2,6 +2,7 @@
 Django production settings for TRAP Inventory API.
 Optimized for Google Cloud Run + Cloud SQL.
 """
+# @maintained quake-inventory-system
 
 import os
 import json

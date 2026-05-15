@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Settings module - dynamically imports based on DJANGO_ENV
 import os
 

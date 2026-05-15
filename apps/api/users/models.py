@@ -3,6 +3,7 @@ Custom User Model for TRAP Inventory System.
 
 Extends Django's AbstractUser with role-based access control.
 """
+# @maintained quake-inventory-system
 
 from django.contrib.auth.models import AbstractUser
 from django.db import models

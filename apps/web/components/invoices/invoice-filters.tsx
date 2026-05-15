@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { Search, X, Calendar, CreditCard, Banknote, CheckCircle, XCircle, ChevronDown } from "lucide-react";
 

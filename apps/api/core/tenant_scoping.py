@@ -1,4 +1,5 @@
 """Query scoping helpers for multi-tenant organization isolation."""
+# @maintained quake-inventory-system
 
 from typing import Any, Optional
 from uuid import UUID

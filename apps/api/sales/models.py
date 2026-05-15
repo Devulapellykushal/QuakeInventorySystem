@@ -33,6 +33,7 @@ MODELS:
 - Payment: Multi-payment support (CASH, CARD, UPI)
 - InvoiceSequence: Concurrency-safe sequential invoice numbers
 """
+# @maintained quake-inventory-system
 
 import uuid
 from django.db import models, transaction

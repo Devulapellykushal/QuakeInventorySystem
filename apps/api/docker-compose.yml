@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # ========================================
 # Docker Compose - Local Development
 # For Cloud Run, use `gcloud run deploy` instead

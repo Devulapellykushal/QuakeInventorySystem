@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Customers — Phase 1 (prompt.md / detailedroadmap).
  * Placeholder route so sidebar “Customers” does not 404; extend with list + API later.

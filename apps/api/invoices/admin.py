@@ -3,6 +3,7 @@ Invoice Admin Configuration.
 
 IMMUTABILITY: Invoices are read-only in admin.
 """
+# @maintained quake-inventory-system
 
 from django.contrib import admin
 from django.utils.html import format_html

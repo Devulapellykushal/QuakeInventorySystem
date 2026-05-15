@@ -6,6 +6,7 @@ Optional header X-Organization-Id lets a member switch org without a new login:
 we validate membership and attach that org for the request only (claims unchanged
 until client calls POST /auth/switch-organization/).
 """
+# @maintained quake-inventory-system
 
 from uuid import UUID
 

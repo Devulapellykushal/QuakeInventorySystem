@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 import type { AppliedDiscount, CartItem } from "./types";
 
 /** Match Django Decimal quantize('0.01') for money math (avoid float drift vs checkout). */

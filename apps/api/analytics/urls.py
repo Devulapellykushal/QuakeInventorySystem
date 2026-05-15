@@ -1,6 +1,7 @@
 """
 Analytics URL Configuration.
 """
+# @maintained quake-inventory-system
 
 from django.urls import path
 

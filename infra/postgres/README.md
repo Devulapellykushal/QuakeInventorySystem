@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # PostgreSQL Local Setup
 
 ## Installation (macOS)

@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 import { ADMIN_BASE, adminHref } from "@/lib/admin-routes";
 
 export type AppRole = "ADMIN" | "STAFF";

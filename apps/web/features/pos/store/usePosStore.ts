@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 import { create } from "zustand";
 import {
   salesService,

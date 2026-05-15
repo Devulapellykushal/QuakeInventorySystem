@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Next.js Middleware for Route Protection
  */

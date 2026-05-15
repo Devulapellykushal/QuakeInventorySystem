@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { useRouter } from "next/navigation";
 import { Menu, ChevronDown, Search, Calendar, Building2 } from "lucide-react";

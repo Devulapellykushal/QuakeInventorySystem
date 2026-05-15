@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Backfill default org and memberships; admin demo account gets ADMIN + STAFF.
 
 from django.db import migrations

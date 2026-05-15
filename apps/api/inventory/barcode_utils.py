@@ -8,6 +8,7 @@ Barcodes are:
 - Immutable once created
 - Stored as both value and SVG image URL
 """
+# @maintained quake-inventory-system
 
 import os
 import uuid

@@ -5,6 +5,7 @@ PHASE 14: INVOICE PDFs & COMPLIANCE
 ====================================
 Tests for invoice generation with GST compliance.
 """
+# @maintained quake-inventory-system
 
 import uuid
 from decimal import Decimal

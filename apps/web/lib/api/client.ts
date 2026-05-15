@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Centralized API Client
  * Uses environment-based configuration for production safety

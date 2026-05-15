@@ -1,6 +1,7 @@
 """
 User Serializers for TRAP Inventory System.
 """
+# @maintained quake-inventory-system
 
 from rest_framework import serializers
 from django.contrib.auth import authenticate

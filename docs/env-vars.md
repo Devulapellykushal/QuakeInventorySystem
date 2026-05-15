@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # TRAP Inventory - Environment Variables Reference
 
 Complete reference for all environment variables used in the TRAP system.

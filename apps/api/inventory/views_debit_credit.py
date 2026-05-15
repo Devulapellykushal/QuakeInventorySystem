@@ -1,6 +1,7 @@
 """
 Debit/Credit Note Views for TRAP Inventory System.
 """
+# @maintained quake-inventory-system
 
 from django.db import models
 from rest_framework import viewsets, status

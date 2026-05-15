@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { Search, Loader2 } from "lucide-react";
 import { usePosStore } from "@/features/pos/store/usePosStore";

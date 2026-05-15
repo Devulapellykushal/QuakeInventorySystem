@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # TRAP Inventory - Operations Runbook
 
 Quick reference for common operational tasks and troubleshooting.

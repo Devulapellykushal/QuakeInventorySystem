@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Users Hook
  * React Query hooks for user management

@@ -3,6 +3,7 @@ Auth Views for TRAP Inventory System.
 
 JWT-based authentication endpoints.
 """
+# @maintained quake-inventory-system
 
 from rest_framework.views import APIView
 from rest_framework.response import Response

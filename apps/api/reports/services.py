@@ -18,6 +18,7 @@ NO:
 - Stored analytics tables
 - Recomputation of prices
 """
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 from datetime import datetime, timedelta

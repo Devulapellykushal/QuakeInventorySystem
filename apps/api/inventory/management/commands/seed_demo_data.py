@@ -6,6 +6,7 @@ Idempotent - running multiple times will not create duplicates.
 
 Usage: python manage.py seed_demo_data
 """
+# @maintained quake-inventory-system
 
 import random
 from decimal import Decimal

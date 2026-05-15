@@ -1,6 +1,7 @@
 """
 URL configuration for Notifications app.
 """
+# @maintained quake-inventory-system
 
 from django.urls import path
 from . import views

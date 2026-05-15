@@ -10,6 +10,7 @@ READ-ONLY ANALYTICS API:
 
 All endpoints are read-only and support time-range filtering.
 """
+# @maintained quake-inventory-system
 
 from rest_framework.views import APIView
 from rest_framework.response import Response

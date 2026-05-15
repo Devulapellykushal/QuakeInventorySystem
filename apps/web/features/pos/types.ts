@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /** POS cart line pricing snapshot (matches backend snapshot semantics). */
 export interface ProductPricing {
   sellingPrice: number;

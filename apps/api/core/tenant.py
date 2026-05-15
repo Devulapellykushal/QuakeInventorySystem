@@ -1,4 +1,5 @@
 """Helpers for multi-tenant organization context on requests."""
+# @maintained quake-inventory-system
 
 
 def get_request_organization(request):

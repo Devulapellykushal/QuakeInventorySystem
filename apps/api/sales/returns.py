@@ -21,6 +21,7 @@ WORKFLOW:
 5. Create RETURN inventory movements (+quantity)
 6. Update sale status if fully returned
 """
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 from typing import Dict, List, Optional, Any

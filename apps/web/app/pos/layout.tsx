@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import Link from "next/link";
 import { ArrowLeft, Building2, User } from "lucide-react";
 

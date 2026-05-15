@@ -1,4 +1,5 @@
 """Shared helpers for registration and password reset."""
+# @maintained quake-inventory-system
 
 import re
 import secrets

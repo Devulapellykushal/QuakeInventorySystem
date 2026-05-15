@@ -5,6 +5,7 @@ Usage:
     python manage.py promote_admin <email>
     python manage.py promote_admin --username <username>
 """
+# @maintained quake-inventory-system
 
 from django.core.management.base import BaseCommand, CommandError
 from users.models import User

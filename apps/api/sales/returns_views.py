@@ -15,6 +15,7 @@ API Endpoints:
 - GET /api/v1/returns/{id}/
 - GET /api/v1/returns/sale/{sale_id}/returnable/
 """
+# @maintained quake-inventory-system
 
 from rest_framework import viewsets, status
 from rest_framework.views import APIView

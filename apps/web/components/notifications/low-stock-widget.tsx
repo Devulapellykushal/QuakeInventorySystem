@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { AlertTriangle, ArrowRight, Package, RefreshCw } from "lucide-react";
 import { cn } from "@/lib/utils";

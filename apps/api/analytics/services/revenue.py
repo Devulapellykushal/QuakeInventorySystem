@@ -8,6 +8,7 @@ RULES:
 - Use database aggregations
 - Support time-range filtering
 """
+# @maintained quake-inventory-system
 
 from datetime import date, timedelta
 from typing import Optional, List, Dict, Any

@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 #!/usr/bin/env bash
 # Lightweight HTTP smoke against a running API (no auth required for health).
 # Usage: API_BASE_URL=http://127.0.0.1:8000 ./scripts/qa/http_smoke.sh

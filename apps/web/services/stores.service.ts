@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Stores Service for TRAP Inventory System.
  * Handles all API calls related to stores and stock transfers.

@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Generated manually for multi-role / multi-tenant auth
 
 import uuid

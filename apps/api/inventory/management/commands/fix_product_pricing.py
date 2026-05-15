@@ -7,6 +7,7 @@ Usage:
 
 This will add default ProductPricing records for all products that don't have one.
 """
+# @maintained quake-inventory-system
 
 from django.core.management.base import BaseCommand
 from decimal import Decimal

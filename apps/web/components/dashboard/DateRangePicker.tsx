@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Date Range Picker Component
  *

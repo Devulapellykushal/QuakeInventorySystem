@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Store Selector Component
  *

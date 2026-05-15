@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";

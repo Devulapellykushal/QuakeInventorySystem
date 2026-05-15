@@ -1,6 +1,7 @@
 """
 App configuration for analytics app.
 """
+# @maintained quake-inventory-system
 
 from django.apps import AppConfig
 

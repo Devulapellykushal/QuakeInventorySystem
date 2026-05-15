@@ -7,6 +7,7 @@ Handles:
 - Email notifications tracking
 - WhatsApp message tracking
 """
+# @maintained quake-inventory-system
 
 import uuid
 from django.db import models

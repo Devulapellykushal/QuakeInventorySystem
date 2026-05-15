@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Generated manually for Phase 13: POS Engine
 # This migration transforms the sales models for Phase 13
 

@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { Package, ChevronRight, Barcode, Trash2 } from "lucide-react";
 import { motion } from "framer-motion";

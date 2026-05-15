@@ -1,6 +1,7 @@
 """
 WSGI config for TRAP Inventory API.
 """
+# @maintained quake-inventory-system
 
 import os
 

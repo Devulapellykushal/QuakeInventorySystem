@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Sales/POS Service
  * Handles all POS and sales-related API calls

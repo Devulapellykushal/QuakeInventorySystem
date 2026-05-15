@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";

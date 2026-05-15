@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Motion Tokens
  * Centralized animation configuration for consistent UI motion.

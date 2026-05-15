@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+# @maintained quake-inventory-system
 import os
 import sys
 

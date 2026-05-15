@@ -4,6 +4,7 @@ Custom Exception Handler for TRAP Inventory API.
 Provides standardized error response format for all API errors.
 All errors return a consistent structure for frontend consumption.
 """
+# @maintained quake-inventory-system
 
 from rest_framework.views import exception_handler as drf_exception_handler
 from rest_framework.response import Response

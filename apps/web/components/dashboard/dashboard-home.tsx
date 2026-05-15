@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Dashboard Overview Page (admin home)
  */

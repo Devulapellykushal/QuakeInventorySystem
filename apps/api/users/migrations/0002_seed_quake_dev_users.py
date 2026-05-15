@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Seed dev login accounts (idempotent on migrate).
 
 from django.contrib.auth.hashers import make_password

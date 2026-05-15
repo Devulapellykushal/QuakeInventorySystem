@@ -8,6 +8,7 @@ HARDENING TESTS (Phase 2.1):
 - Price immutability when stock exists
 - Single entry point for stock mutation
 """
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 from django.test import TestCase

@@ -10,6 +10,7 @@ PHASE 14: INVOICE PDFs & COMPLIANCE
 - Company bank details + Declaration + Authorised Signatory
 - "This is a Computer Generated Invoice" footer
 """
+# @maintained quake-inventory-system
 
 import os
 from decimal import Decimal

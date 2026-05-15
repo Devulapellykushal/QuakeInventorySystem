@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # ================================================
 # Backend CI/CD Pipeline
 # Deploys Django API to Google Cloud Run

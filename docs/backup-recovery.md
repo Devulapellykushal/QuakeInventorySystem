@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # TRAP Inventory - Backup & Recovery Guide
 
 Procedures for backing up and restoring the TRAP Inventory system.

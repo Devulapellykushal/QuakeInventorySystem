@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 export { inventoryService } from "./inventory.service";
 export type {
   Product,

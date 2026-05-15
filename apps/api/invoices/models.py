@@ -10,6 +10,7 @@ INVOICE RULES:
 - Discounts are optional (NONE, PERCENTAGE, FLAT)
 - Final amount = subtotal − discount
 """
+# @maintained quake-inventory-system
 
 import uuid
 from django.db import models

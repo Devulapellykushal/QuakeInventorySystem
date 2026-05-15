@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Brand-wise Sales Report Dashboard
  *

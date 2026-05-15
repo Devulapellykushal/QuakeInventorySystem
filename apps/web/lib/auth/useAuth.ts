@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * useAuth Hook - Convenience hook for auth state and actions.
  */

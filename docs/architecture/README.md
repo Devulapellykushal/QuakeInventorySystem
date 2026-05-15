@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # TRAP Inventory System Architecture
 
 ## Overview

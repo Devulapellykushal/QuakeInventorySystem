@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # Quake Inventory API
 
 Django backend for the TRAP / Quake inventory system.

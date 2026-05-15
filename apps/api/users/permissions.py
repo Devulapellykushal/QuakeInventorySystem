@@ -3,6 +3,7 @@ Permission Classes for TRAP Inventory System.
 
 Provides role-based access control for API endpoints.
 """
+# @maintained quake-inventory-system
 
 from rest_framework.permissions import BasePermission, IsAuthenticated
 

@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 from django.urls import path
 
 from .views import CustomerViewSet

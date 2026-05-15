@@ -10,6 +10,7 @@ computer-generated footer.
 Line items are reloaded from DB with a fallback to live SaleItem rows when
 InvoiceItem snapshots are missing.
 """
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

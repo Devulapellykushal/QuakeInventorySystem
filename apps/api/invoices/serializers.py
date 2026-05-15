@@ -7,6 +7,7 @@ PHASE 14: INVOICE PDFs & COMPLIANCE
 - Invoice snapshot from Sale data
 - Immutable after creation
 """
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 from rest_framework import serializers

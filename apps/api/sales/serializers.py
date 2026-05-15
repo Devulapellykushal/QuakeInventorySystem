@@ -11,6 +11,7 @@ Serializers for:
 - Checkout request/response
 - Barcode scanning
 """
+# @maintained quake-inventory-system
 
 from rest_framework import serializers
 from decimal import Decimal

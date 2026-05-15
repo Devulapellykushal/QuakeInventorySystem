@@ -14,6 +14,7 @@ RBAC:
 - Admin/Staff: Create sales, view sales, record credit payments
 - No one: Edit/delete sales (immutable)
 """
+# @maintained quake-inventory-system
 
 from rest_framework import viewsets, status
 from rest_framework.views import APIView

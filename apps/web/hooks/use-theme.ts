@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 /**
  * Theme Hook - Manages application theme with persistence.
  * Uses CSS custom properties and data-theme attribute.

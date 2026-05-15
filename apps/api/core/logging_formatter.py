@@ -2,6 +2,7 @@
 JSON logging formatter for production.
 Outputs structured JSON logs for Cloud Logging integration.
 """
+# @maintained quake-inventory-system
 
 import json
 import logging

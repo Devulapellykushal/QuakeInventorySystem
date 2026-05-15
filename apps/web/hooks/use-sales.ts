@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * POS/Sales Hooks
  * React Query hooks for POS operations

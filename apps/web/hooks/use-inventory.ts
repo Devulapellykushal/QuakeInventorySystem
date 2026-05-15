@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Inventory Hooks
  * React Query hooks for inventory data

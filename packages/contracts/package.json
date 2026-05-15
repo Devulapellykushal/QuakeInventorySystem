@@ -1,4 +1,5 @@
 {
+  "//": "@maintained quake-inventory-system",
   "name": "@trap/contracts",
   "version": "0.0.1",
   "private": true,

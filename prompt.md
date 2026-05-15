@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # MASTER IMPLEMENTATION PROMPT — QUAKE INVENTORY → TYRE SHOP ERP/POS (INDIA – TELANGANA)
 
 You are a senior full-stack architect and production engineer.

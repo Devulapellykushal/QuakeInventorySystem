@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Error Banner Component
  * 

@@ -1,6 +1,7 @@
 """
 Build Django PostgreSQL config from DATABASE_URL or legacy POSTGRES_* env vars.
 """
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

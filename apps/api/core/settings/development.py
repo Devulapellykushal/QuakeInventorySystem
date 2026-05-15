@@ -1,6 +1,7 @@
 """
 Django development settings for TRAP Inventory API.
 """
+# @maintained quake-inventory-system
 
 import os
 from pathlib import Path

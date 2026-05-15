@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Invoices Service
  * Handles all invoice-related API calls

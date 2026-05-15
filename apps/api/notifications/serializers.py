@@ -1,6 +1,7 @@
 """
 Serializers for Notifications app.
 """
+# @maintained quake-inventory-system
 
 from rest_framework import serializers
 from .models import (

@@ -3,6 +3,7 @@ Returns Serializers for TRAP Inventory System.
 
 PHASE 15: RETURNS, REFUNDS & ADJUSTMENTS
 """
+# @maintained quake-inventory-system
 
 from rest_framework import serializers
 from decimal import Decimal

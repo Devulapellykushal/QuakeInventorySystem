@@ -3,6 +3,7 @@ Write invoice PDF to an arbitrary path (same engine selection as production).
 
 Used by ``testinvoice`` dumps and tests — not for normal ``media/invoices`` flow.
 """
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

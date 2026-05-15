@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 from rest_framework import viewsets, filters
 from rest_framework.permissions import IsAuthenticated
 

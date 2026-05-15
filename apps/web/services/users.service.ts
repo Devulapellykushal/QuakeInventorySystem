@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Users Service
  * Handles admin user management API calls

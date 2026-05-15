@@ -2,6 +2,7 @@
 Inventory Models for TRAP Inventory System.
 Implements ledger-based stock management with immutable audit trail.
 """
+# @maintained quake-inventory-system
 
 import uuid
 from django.db import models

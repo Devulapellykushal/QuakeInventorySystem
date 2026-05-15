@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Generated manually — seed INV-SALE counters from legacy sales.InvoiceSequence
 
 from django.db import migrations

@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 import type { ReactNode } from "react";
 
 /** Login uses Indigo Bloom spec colors regardless of global light/dash theme */

@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # ADR 0001: Tax policy for Indian tyre shop POS (Telangana intra-state)
 
 ## Status

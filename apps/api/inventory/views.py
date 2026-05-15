@@ -8,6 +8,7 @@ HARDENING RULES:
 - StockLedger is read-only (no create/update/delete via API)
 - Barcode is immutable after creation
 """
+# @maintained quake-inventory-system
 
 from django.db import models
 from rest_framework import viewsets, status, mixins

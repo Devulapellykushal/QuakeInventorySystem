@@ -1,4 +1,5 @@
 """Write sample PDFs under repo-root ``testinvoice/`` for quick visual regression."""
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 export { Button, buttonVariants } from "./button";
 export { Input, inputVariants } from "./input";
 export { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter, cardVariants } from "./card";

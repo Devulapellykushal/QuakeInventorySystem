@@ -1,6 +1,7 @@
 """
 Auth URL Configuration.
 """
+# @maintained quake-inventory-system
 
 from django.urls import path
 from .views import LoginView, LogoutView, RefreshView, MeView, UserListCreateView, UserDetailView

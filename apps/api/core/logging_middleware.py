@@ -2,6 +2,7 @@
 Request logging middleware for production.
 Logs all HTTP requests with timing and user information.
 """
+# @maintained quake-inventory-system
 
 import logging
 import time

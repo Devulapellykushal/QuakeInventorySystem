@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # TRAP Inventory - Deployment Guide
 
 Complete guide for deploying the TRAP Inventory Management System to production.

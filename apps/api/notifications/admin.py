@@ -1,6 +1,7 @@
 """
 Admin configuration for Notifications app.
 """
+# @maintained quake-inventory-system
 
 from django.contrib import admin
 from .models import Notification, EmailNotification, WhatsAppNotification, NotificationSetting

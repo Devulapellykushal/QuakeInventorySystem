@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Debit/Credit Notes Service
  * Handles all debit and credit note API calls for returns management

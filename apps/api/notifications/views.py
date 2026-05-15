@@ -1,6 +1,7 @@
 """
 Views for Notifications app.
 """
+# @maintained quake-inventory-system
 
 from rest_framework import status
 from rest_framework.views import APIView

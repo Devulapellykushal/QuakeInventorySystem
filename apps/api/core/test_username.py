@@ -1,4 +1,5 @@
 """Unique usernames for Django tests (avoids collisions under SQLite + APITestCase)."""
+# @maintained quake-inventory-system
 import uuid
 
 

@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Generated manually — Quake invoice header + legacy BusinessSettings cleanup.
 
 from django.db import migrations, models

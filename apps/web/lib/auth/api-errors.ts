@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 import axios from "axios";
 
 /** Extract a user-facing message from Quake API error responses. */

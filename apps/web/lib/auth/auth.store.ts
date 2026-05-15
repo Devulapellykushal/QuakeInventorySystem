@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Auth Store - Zustand store for auth state management.
  */

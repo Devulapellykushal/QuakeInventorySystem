@@ -11,6 +11,7 @@ Required tests:
 - GSTReportTest: Tax correctness
 - RBACReportAccessTest: Permission safety
 """
+# @maintained quake-inventory-system
 
 import uuid
 from decimal import Decimal

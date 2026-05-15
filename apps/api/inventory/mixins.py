@@ -1,4 +1,5 @@
 """View mixins for organization-scoped inventory APIs."""
+# @maintained quake-inventory-system
 
 from core.tenant_scoping import organization_id_from_request, scope_queryset_by_organization
 

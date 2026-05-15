@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { DollarSign, ShoppingCart, TrendingUp, Wallet, Calendar, Building2, ChevronDown, BarChart3 } from "lucide-react";
 import { PageTransition } from "@/components/layout";

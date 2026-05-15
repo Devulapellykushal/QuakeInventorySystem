@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Auth Service - API calls for authentication.
  */

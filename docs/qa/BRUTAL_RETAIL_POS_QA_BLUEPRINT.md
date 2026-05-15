@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # Brutal Retail / Tyre-Shop QA & Security Blueprint
 
 **Latest automated battery:** run `./scripts/qa/run_qa_battery.sh`; logs land under `qa-artifacts/<timestamp>/manage_test.log` (gitignored). See `docs/qa/README.md`.

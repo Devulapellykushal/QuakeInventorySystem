@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # QA artifacts & scripts
 
 ## Run backend battery (Django)

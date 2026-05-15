@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { motion } from "framer-motion";
 import { TrendingUp, TrendingDown, Clock } from "lucide-react";

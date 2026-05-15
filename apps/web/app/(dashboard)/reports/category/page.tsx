@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Category-wise Sales Report Dashboard
  *

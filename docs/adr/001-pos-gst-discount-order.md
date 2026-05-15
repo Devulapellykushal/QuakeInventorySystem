@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # ADR 001: POS line GST and discount order
 
 ## Status

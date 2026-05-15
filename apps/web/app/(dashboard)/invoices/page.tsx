@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { FileText, DollarSign, Receipt } from "lucide-react";
 import { PageTransition } from "@/components/layout";

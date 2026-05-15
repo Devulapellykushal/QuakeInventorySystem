@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 #!/usr/bin/env bash
 # Run Django test suite and tee output to qa-artifacts/<UTC-timestamp>/manage_test.log
 set -euo pipefail

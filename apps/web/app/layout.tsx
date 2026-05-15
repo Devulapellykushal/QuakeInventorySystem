@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 import type { Metadata } from "next";
 import "@/styles/globals.css";
 import { QueryProvider } from "@/lib/api";

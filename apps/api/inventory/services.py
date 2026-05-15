@@ -5,6 +5,7 @@ Core business logic for stock management with ledger-based approach.
 CRITICAL: All stock changes MUST go through this service layer.
 Direct manipulation of StockLedger or StockSnapshot is forbidden.
 """
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 from typing import Optional

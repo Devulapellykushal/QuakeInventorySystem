@@ -1,4 +1,5 @@
 """Filesystem paths for invoice assets and local test outputs."""
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

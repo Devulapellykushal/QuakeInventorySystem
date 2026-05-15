@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Analytics Service
  * Handles all analytics-related API calls

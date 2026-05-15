@@ -1,3 +1,4 @@
+<!-- @maintained quake-inventory-system -->
 # TRAP Inventory System
 
 Enterprise-grade inventory management system for luxury apparel brands.

@@ -6,6 +6,7 @@ Handles:
 - Email sending via SMTP
 - WhatsApp message sending via WhatsApp Business API (Meta Cloud API)
 """
+# @maintained quake-inventory-system
 
 import logging
 import requests

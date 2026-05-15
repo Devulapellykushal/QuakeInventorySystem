@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /** Base path for the authenticated inventory / POS admin UI. */
 export const ADMIN_BASE = "/admin";
 

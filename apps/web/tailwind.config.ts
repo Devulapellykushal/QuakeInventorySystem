@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 import type { Config } from "tailwindcss";
 
 const config: Config = {

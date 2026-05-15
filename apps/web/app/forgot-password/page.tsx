@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import {
   AuthErrorBanner,
   AuthField,

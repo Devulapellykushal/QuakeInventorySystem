@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Credit Sales Service
  * Handles all credit sales (pay-later) related API calls

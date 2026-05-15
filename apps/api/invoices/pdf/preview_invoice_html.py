@@ -3,6 +3,7 @@ Tally-style invoice HTML aligned with ``apps/web/components/invoices/invoice-pre
 
 Used by WeasyPrint only; keeps borders, 8-column line grid, filler rows, discount/total/words/bank/footer.
 """
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

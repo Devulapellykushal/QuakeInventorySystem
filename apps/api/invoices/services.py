@@ -13,6 +13,7 @@ PHASE 14: INVOICE PDFs & COMPLIANCE
 CRITICAL: All invoice operations MUST go through this service layer.
 Direct manipulation of Invoice/InvoiceItem is forbidden.
 """
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 from typing import Optional, Dict, Any

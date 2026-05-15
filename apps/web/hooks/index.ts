@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 export * from "./use-inventory";
 export * from "./use-analytics";
 export * from "./use-invoices";

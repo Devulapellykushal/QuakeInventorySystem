@@ -3,6 +3,7 @@ Reports URL Configuration.
 
 PHASE 16: REPORTS & ANALYTICS
 """
+# @maintained quake-inventory-system
 
 from django.urls import path
 

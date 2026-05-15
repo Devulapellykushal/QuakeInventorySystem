@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Format instants in Asia/Kolkata (IST) for display.
  * Uses 12-hour clock with literal "am" / "pm".

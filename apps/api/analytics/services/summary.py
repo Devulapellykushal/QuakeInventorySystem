@@ -2,6 +2,7 @@
 Analytics Summary Service.
 Provides aggregated dashboard metrics from a single endpoint.
 """
+# @maintained quake-inventory-system
 
 from datetime import date, timedelta
 from decimal import Decimal

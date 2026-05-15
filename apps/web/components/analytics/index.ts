@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 export { KPICard } from "./kpi-card";
 export { RevenueChart } from "./revenue-chart";
 export { InventoryHealth } from "./inventory-health";

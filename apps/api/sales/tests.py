@@ -14,6 +14,7 @@ Required tests:
 - InvoiceSequenceTest: Sequential invoice numbers
 - DiscountValidationTest: Discount rules enforced
 """
+# @maintained quake-inventory-system
 
 import uuid
 from decimal import Decimal

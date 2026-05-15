@@ -7,6 +7,7 @@ INVOICE API:
 - Download invoice PDF
 - Discount settings management
 """
+# @maintained quake-inventory-system
 
 from django.http import FileResponse, Http404
 from rest_framework import viewsets, status

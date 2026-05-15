@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Maps DRF invoice payloads (camelCase and snake_case) to the shape used by
  * `InvoicePreview` and the invoices list page.

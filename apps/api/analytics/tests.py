@@ -6,6 +6,7 @@ NOTE: These tests are temporarily skipped as the analytics module
 references stale model fields. The dashboard uses reports APIs instead.
 TODO: Update analytics module to match current model schemas.
 """
+# @maintained quake-inventory-system
 
 import unittest
 import uuid

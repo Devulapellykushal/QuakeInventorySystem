@@ -4,6 +4,7 @@ Bulk product import from CSV or XLSX.
 One row = one product + one default variant + optional product-level pricing and opening stock.
 Headers are snake_case (matches API field style). See IMPORT_COLUMNS and template download.
 """
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

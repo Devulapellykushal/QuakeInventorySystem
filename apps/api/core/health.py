@@ -1,6 +1,7 @@
 """
 Production-grade health check endpoint for TRAP Inventory API.
 """
+# @maintained quake-inventory-system
 
 from datetime import datetime
 from django.conf import settings

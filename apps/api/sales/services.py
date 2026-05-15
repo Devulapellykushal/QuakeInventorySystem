@@ -44,6 +44,7 @@ REQUIREMENTS:
 CRITICAL: All sales operations MUST go through this service layer.
 Direct manipulation of Sale/SaleItem/Payment is forbidden.
 """
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 from typing import List, Optional, Union

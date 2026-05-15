@@ -2,6 +2,7 @@
 Django base settings for TRAP Inventory API.
 Shared configuration between development and production.
 """
+# @maintained quake-inventory-system
 
 import os
 from pathlib import Path

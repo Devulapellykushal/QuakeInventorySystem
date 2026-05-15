@@ -4,6 +4,7 @@ Sales URL Configuration.
 PHASE 15: Added returns and adjustments endpoints.
 PHASE 16: Added credit payment endpoints.
 """
+# @maintained quake-inventory-system
 
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter

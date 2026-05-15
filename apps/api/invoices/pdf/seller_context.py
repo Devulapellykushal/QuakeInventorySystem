@@ -4,6 +4,7 @@ Resolve printed-invoice seller block: warehouse vs company + bank defaults.
 Legal GSTIN / state line / signatory use ``BusinessSettings``; prominent name
 and address use the invoice's warehouse when present.
 """
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

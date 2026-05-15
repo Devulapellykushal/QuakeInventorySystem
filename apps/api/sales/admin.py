@@ -6,6 +6,7 @@ PHASE 13: POS ENGINE
 
 IMMUTABILITY: Sales, SaleItems, and Payments are read-only in admin.
 """
+# @maintained quake-inventory-system
 
 from django.contrib import admin
 from django.utils.html import format_html

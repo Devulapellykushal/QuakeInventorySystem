@@ -10,6 +10,7 @@ HARDENING RULES:
 - Margin percentage is computed, read-only
 - Attributes must be a valid JSON object (Phase 10.1)
 """
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 from typing import Any

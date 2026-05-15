@@ -1,4 +1,5 @@
 """Tests for notifications services (low stock, etc.)."""
+# @maintained quake-inventory-system
 
 from decimal import Decimal
 

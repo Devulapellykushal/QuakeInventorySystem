@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Generated manually for staff invite links
 
 import uuid

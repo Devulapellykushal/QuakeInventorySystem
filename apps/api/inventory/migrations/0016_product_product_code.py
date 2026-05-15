@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 from django.db import migrations, models
 
 

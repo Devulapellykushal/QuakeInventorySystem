@@ -5,6 +5,7 @@ Usage:
     python manage.py create_admin --email admin@example.com --password securepass
     python manage.py create_admin --email admin@example.com --password securepass --username admin
 """
+# @maintained quake-inventory-system
 
 from django.core.management.base import BaseCommand, CommandError
 from users.models import User

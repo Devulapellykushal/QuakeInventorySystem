@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import { AnimatePresence, motion } from "framer-motion";
 import { Crop, X } from "lucide-react";
 import * as React from "react";

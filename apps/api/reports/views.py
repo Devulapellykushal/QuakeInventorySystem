@@ -20,6 +20,7 @@ RBAC:
 - Inventory/Sales: Admin or Manager
 - Profit/Audit: Admin only
 """
+# @maintained quake-inventory-system
 
 from datetime import datetime
 from rest_framework.views import APIView

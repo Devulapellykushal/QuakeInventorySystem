@@ -1,3 +1,4 @@
+# @maintained quake-inventory-system
 # Generated manually for warehouse bank details (optional) on invoices.
 
 from django.db import migrations, models

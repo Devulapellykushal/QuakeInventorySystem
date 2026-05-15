@@ -4,6 +4,7 @@ Custom DRF Renderers for TRAP Inventory API.
 Provides automatic snake_case to camelCase conversion for all API responses.
 This ensures frontend receives consistent camelCase field names.
 """
+# @maintained quake-inventory-system
 
 import re
 from rest_framework.renderers import JSONRenderer

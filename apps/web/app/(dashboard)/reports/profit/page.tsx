@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Profit & Tax Dashboard
  *

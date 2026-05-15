@@ -5,6 +5,7 @@ Usage (from ``apps/api``):
 
     uv run python manage.py generate_test_invoice_pdfs
 """
+# @maintained quake-inventory-system
 
 from __future__ import annotations
 

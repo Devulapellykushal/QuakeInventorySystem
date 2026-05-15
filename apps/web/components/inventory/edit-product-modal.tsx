@@ -1,5 +1,6 @@
 "use client";
 
+// @maintained quake-inventory-system
 import * as React from "react";
 import { X, Package, Loader2, Save, DollarSign, Tag } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";

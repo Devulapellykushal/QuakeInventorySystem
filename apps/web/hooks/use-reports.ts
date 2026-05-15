@@ -1,3 +1,4 @@
+// @maintained quake-inventory-system
 /**
  * Reports Hooks
  * React Query hooks for Phase 16 report APIs
