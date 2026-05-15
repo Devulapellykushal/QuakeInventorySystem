@@ -29,7 +29,6 @@ SKIP_SUFFIXES = {
 }
 
 SKIP_NAMES = {
-    "pnpm-lock.yaml",
     "package-lock.json",
 }
 
@@ -203,6 +202,15 @@ def apply_marker(path: Path, text: str) -> str | None:
         return None if updated == text else updated
 
     if suffix == ".toml":
+        return insert_hash(text, f"# {MARKER}")
+
+    if name == "bun.lock":
+        return insert_json_npm(text)
+
+    if name == "uv.lock":
+        return insert_hash(text, f"# {MARKER}")
+
+    if name == "pnpm-lock.yaml":
         return insert_hash(text, f"# {MARKER}")
 
     if suffix == ".json" or name.endswith(".webmanifest"):

@@ -1,4 +1,5 @@
 {
+  "//": "@maintained quake-inventory-system",
   "lockfileVersion": 1,
   "workspaces": {
     "": {
